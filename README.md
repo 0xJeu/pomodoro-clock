@@ -2,8 +2,6 @@
 
 <img width="649" alt="Screenshot 2023-06-19 at 2 03 04 PM" src="https://github.com/0xJeu/pomodoro-clock/assets/129988927/952d18a3-4b38-4f78-b58c-f30464390cb3">
 
-# Pomodoro Timer
-
 This Python code implements a Pomodoro Timer using the Tkinter library. The Pomodoro Technique is a time management method that uses a timer to break work into intervals, traditionally 25 minutes in length, separated by short breaks.
 
 ## How It Works
